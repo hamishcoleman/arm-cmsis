@@ -1,0 +1,6 @@
+License:
+    the CMSIS components (CORE, RTOS, DSP, Driver) that are intended
+    to run on the Cortex-M device are today licensed under BSD or zlib
+    license. The detailed license agreement for CMSIS can be found in the
+    CMSIS_END_USER_LICENCE_AGREEMENT.pdf file in this repository.
+
