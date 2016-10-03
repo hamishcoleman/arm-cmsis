@@ -1,6 +1,10 @@
-Collected together from the various public releases, this repository
-contains the ARM CMSIS codebase.  This is the ARM library that is used
-to compile software to run on bare-metal ARM microcontrollers.
+This is a compilation of the public releases of the ARM CMSIS-Core
+software from the time that it was released with an open licence (either
+BSD or zlib) until the CMSIS software was released as a git repository.
+It contains commits for versions 3.2, 4.0, 4.01 and 4.2
+
+This is the ARM library that is used to compile software to run on
+bare-metal ARM microcontrollers.
 
 The releases contained here do not appear to have a public
 repository.  However, starting from v4.3.0, there is a repo at
